@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aion-beta/static/css/main.4804fb7d.css",
-    "main.js": "/aion-beta/static/js/main.a2ca3f04.js",
+    "main.js": "/aion-beta/static/js/main.7bf424da.js",
     "static/js/787.42e341cc.chunk.js": "/aion-beta/static/js/787.42e341cc.chunk.js",
     "static/media/selfie_default.png": "/aion-beta/static/media/selfie_default.635a36019acae383ab2b.png",
     "static/media/finca.png": "/aion-beta/static/media/finca.f467cf5eb3334d463d19.png",
@@ -22,11 +22,11 @@
     "index.html": "/aion-beta/index.html",
     "static/media/facebook.svg": "/aion-beta/static/media/facebook.0cfc2225db3673a03d57c41b963d46bc.svg",
     "main.4804fb7d.css.map": "/aion-beta/static/css/main.4804fb7d.css.map",
-    "main.a2ca3f04.js.map": "/aion-beta/static/js/main.a2ca3f04.js.map",
+    "main.7bf424da.js.map": "/aion-beta/static/js/main.7bf424da.js.map",
     "787.42e341cc.chunk.js.map": "/aion-beta/static/js/787.42e341cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4804fb7d.css",
-    "static/js/main.a2ca3f04.js"
+    "static/js/main.7bf424da.js"
   ]
 }
