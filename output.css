@@ -1847,7 +1847,7 @@ video {
 }
 
 .bg-\[url\(\'\/images\/bottom-bg\.svg\'\)\] {
-  background-image: url('images/bottom-bg.svg');
+  background-image: url('/images/bottom-bg.svg');
 }
 
 .bg-gradient-main-mobile {
@@ -1864,6 +1864,10 @@ video {
 
 .bg-gradient-scoring {
   background-image: linear-gradient(263.75deg, #C7F8FF -17.44%, #92C9F9 6.44%, #9186E7 31.02%, #BE88C4 63.86%, #EEA4BC 96.12%, #ECD7C8 117.8%, #FBF4EC 129.01%);
+}
+
+.bg-\[url\(\'images\/bottom-bg\.svg\'\)\] {
+  background-image: url('images/bottom-bg.svg');
 }
 
 .bg-cover {
@@ -3644,6 +3648,10 @@ video {
   }
 
   .md\:bg-\[url\(\'\/images\/top-bg\.svg\'\)\] {
+    background-image: url('/images/top-bg.svg');
+  }
+
+  .md\:bg-\[url\(\'images\/top-bg\.svg\'\)\] {
     background-image: url('images/top-bg.svg');
   }
 
