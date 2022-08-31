@@ -1870,6 +1870,10 @@ video {
   background-image: url('images/bottom-bg.svg');
 }
 
+.bg-\[url\(\'images\/bg\.svg\'\)\] {
+  background-image: url('images/bg.svg');
+}
+
 .bg-cover {
   background-size: cover;
 }
