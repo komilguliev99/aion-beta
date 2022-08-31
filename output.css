@@ -1847,7 +1847,7 @@ video {
 }
 
 .bg-\[url\(\'\/images\/bottom-bg\.svg\'\)\] {
-  background-image: url('/images/bottom-bg.svg');
+  background-image: url('images/bottom-bg.svg');
 }
 
 .bg-gradient-main-mobile {
@@ -3644,7 +3644,7 @@ video {
   }
 
   .md\:bg-\[url\(\'\/images\/top-bg\.svg\'\)\] {
-    background-image: url('/images/top-bg.svg');
+    background-image: url('images/top-bg.svg');
   }
 
   .md\:p-0 {
